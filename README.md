@@ -3,11 +3,11 @@ Markdown
 # BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
-- **Họ và tên:** Nguyễn Văn A
-- **Mã số sinh viên:** 20123456
-- **Lớp:** 20DTHxx
+- **Họ và tên:** Nguyễn Chí Thành
+- **Mã số sinh viên:** 24810310269
+- **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình C# / Windows Forms
-- **Tên bài tập:** [Điền tên bài tập tại đây]
+- **Tên bài tập:** ÔN TẬP WINDOW FORM
 
 ---
 
